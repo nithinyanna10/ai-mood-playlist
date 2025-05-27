@@ -95,11 +95,6 @@ REACT_APP_API_URL=http://localhost:8000
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.  
-See `LICENSE` file for details.
-
 ---
 
 > 💬 *Feel free to fork, star, and submit pull requests. Feedback & ideas welcome!*
